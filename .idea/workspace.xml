@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="322c3622-07cd-4880-a358-57ea6f61525b" name="Default" comment="Default">
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/backstage.html" afterPath="$PROJECT_DIR$/backstage.html" />
     </list>
     <ignored path="laigou.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +24,7 @@
     <splitter split-orientation="horizontal" split-proportion="0.54249126">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-          <file leaf-file-name="backstage.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="backstage.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/backstage.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="108">
@@ -42,6 +42,16 @@
                     <element signature="n#style#0;n#span#0;n#td#6;n#tr#3;n#table#0;n#div#2;n#div#0;n#div#0;n#div#11;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#td#5;n#tr#4;n#table#0;n#div#2;n#div#0;n#div#0;n#div#11;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="216">
+                  <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -106,6 +116,7 @@
         <option value="$USER_HOME$/Documents/Tencent Files/563221692/FileRecv/小课堂(1)/PPT/小课堂PPT模板.html" />
         <option value="$PROJECT_DIR$/backstage.css" />
         <option value="$PROJECT_DIR$/backstage.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -144,11 +155,6 @@
             <path>
               <item name="laigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="laigou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laigou" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +268,7 @@
       <workItem from="1514894095372" duration="11304000" />
       <workItem from="1514941742548" duration="8324000" />
       <workItem from="1514953733048" duration="24276000" />
-      <workItem from="1515030505975" duration="28675000" />
+      <workItem from="1515030505975" duration="28939000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1515078102469</created>
@@ -278,11 +284,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515078715230</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Default">
+      <created>1515078907972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515078907972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196325000" />
+    <option name="totallyTimeSpent" value="196589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -794,6 +807,14 @@
             <element signature="n#style#0;n#span#0;n#td#6;n#tr#3;n#table#0;n#div#2;n#div#0;n#div#0;n#div#11;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#td#5;n#tr#4;n#table#0;n#div#2;n#div#0;n#div#0;n#div#11;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
